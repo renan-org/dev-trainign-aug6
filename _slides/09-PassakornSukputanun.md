@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to passakorn deck!"
 ---
 
-Caption here
+Hello world
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
