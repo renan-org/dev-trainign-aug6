@@ -7,5 +7,5 @@ Changed caption
 
 inserted new text here ....
 
-![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
+![tux](https://sqwabb.wordpress.com/wp-content/uploads/2013/08/tux-apple-crop.jpg)
 {: .center}
