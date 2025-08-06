@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "This is Slide Friedrich Janus!"
 ---
 
 Caption here
