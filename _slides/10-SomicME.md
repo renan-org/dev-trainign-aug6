@@ -1,9 +1,11 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Servus & Habedere!"
 ---
 
-Caption here
+SuperSomicSonic:
+![SuperSomicSonic](https://github.com/SomicME/images/blob/main/SuperSomicSonic.png)
 
-![constructocat](https://octodex.github.com/images/constructocat2.jpg)
+Octocat:
+![Octocat](https://github.com/SomicME/images/blob/main/octocat-SomicME.png)
 {: .center}
