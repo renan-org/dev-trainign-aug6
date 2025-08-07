@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: "Welcome to our slide deck!"
-Jumbo: "Helloo we are SOMIC APAC"
+Jumbo: "Hello we are SOMIC APAC"
 ---
 
 Caption here
