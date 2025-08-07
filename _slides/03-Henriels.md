@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Florian's slide deck!"
 ---
 
-Caption here
+Goodbye
 
-![herme-t-crabb](https://octodex.github.com/images/herme-t-crabb.png)
+![sad-cat](https://i0.wp.com/algoritmim.co.il/wp-content/uploads/2020/10/sad-octocat.png)
 {: .center}
