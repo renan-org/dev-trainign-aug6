@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Changed caption
 
-![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
+inserted new text here ....
+
+![tux](https://sqwabb.wordpress.com/wp-content/uploads/2013/08/tux-apple-crop.jpg)
 {: .center}
